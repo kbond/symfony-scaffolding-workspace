@@ -1,4 +1,7 @@
 {
+    "behat/mink": {
+        "version": "v1.10.0"
+    },
     "doctrine/annotations": {
         "version": "1.13",
         "recipe": {
@@ -100,6 +103,9 @@
     },
     "monolog/monolog": {
         "version": "2.4.0"
+    },
+    "mtdowling/jmespath.php": {
+        "version": "2.6.1"
     },
     "myclabs/deep-copy": {
         "version": "1.11.0"
@@ -633,5 +639,14 @@
     },
     "webmozart/assert": {
         "version": "1.10.0"
+    },
+    "zenstruck/assert": {
+        "version": "v1.0.1"
+    },
+    "zenstruck/browser": {
+        "version": "v0.10.0"
+    },
+    "zenstruck/callback": {
+        "version": "v1.4.2"
     }
 }
